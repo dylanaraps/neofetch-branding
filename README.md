@@ -4,6 +4,6 @@
 ![](big-with-text.png)
 ![](discord.png)
 ![](README.md)
-![](sqaure-light.png)
+![](square-light.png)
 ![](square-dark.png)
 ![](square-transparent.png)

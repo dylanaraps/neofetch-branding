@@ -6,3 +6,4 @@
 ![](README.md)
 ![](sqaure-light.png)
 ![](square-dark.png)
+![](square-transparent.png)

@@ -2,7 +2,9 @@
 
 ![](big.png)
 ![](big-with-text.png)
+![](discord-corrupt.png)
+![](discord-oss.png)
 ![](discord.png)
-![](README.md)
-![](square-light.png)
+![](logo.png)
 ![](square-dark.png)
+![](square-light.png)
